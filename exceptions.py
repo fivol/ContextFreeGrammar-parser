@@ -1,0 +1,3 @@
+
+class GrammarIncorrectException(Exception):
+    pass
